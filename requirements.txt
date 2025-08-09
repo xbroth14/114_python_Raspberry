@@ -1,0 +1,8 @@
+google-genai
+python-dotenv
+ipywidgets
+pillow
+
+
+
+#pip install -r requirements.txt 下載所需套件
