@@ -2,7 +2,7 @@ google-genai
 python-dotenv
 ipywidgets
 pillow
-
+gradio
 
 
 #pip install -r requirements.txt 下載所需套件
